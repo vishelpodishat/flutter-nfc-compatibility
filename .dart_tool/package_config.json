@@ -62,6 +62,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/mazino/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "file",
       "rootUri": "file:///Users/mazino/.pub-cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
@@ -320,7 +326,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-03-05T05:26:10.617862Z",
+  "generated": "2025-03-07T09:02:42.578975Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///Users/mazino/development/flutter-3.29",
