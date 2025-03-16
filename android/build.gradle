@@ -25,7 +25,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.example.flutter_nfc_compatibility"
+    namespace "com.mymax.nfccompatibility"
+    
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
